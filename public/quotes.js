@@ -1,4 +1,4 @@
-export const quotes = [
+const quotes = [
     {
         quote: "Life is about making an impact, not making an income. ", author: "- Kevin Kruse"
     },
@@ -37,3 +37,4 @@ export const quotes = [
     }]
 
 
+export { quotes };
